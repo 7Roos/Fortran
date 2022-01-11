@@ -4,6 +4,6 @@ real :: a ! O usuário deve entrar com os valores das variáveis separando-as po
 print *, "Informe um valor de a:"
 read *, a
 print *, "Valor lido:",a
-end program le_valor
+end program le_valor 
 
 Pág.22
