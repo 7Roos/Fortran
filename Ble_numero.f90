@@ -6,4 +6,4 @@ read *, a
 print *, "Valor lido:",a
 end program le_valor 
 
-Pag.22
+Pág.22
